@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "chatpter_05.ArrayTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ExerciseSum",
+            "request": "launch",
+            "mainClass": "ExerciseSum",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_cash",
+            "request": "launch",
+            "mainClass": "Exercise_cash",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_",
+            "request": "launch",
+            "mainClass": "Exercise_",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Exercise_01",
+            "request": "launch",
+            "mainClass": "Exercise_01",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "CheckUser",
+            "request": "launch",
+            "mainClass": "CheckUser",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "NineChart",
+            "request": "launch",
+            "mainClass": "NineChart",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "WhileTest",
+            "request": "launch",
+            "mainClass": "WhileTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "SwitchDetial",
+            "request": "launch",
+            "mainClass": "SwitchDetial",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "LogicControl_04",
+            "request": "launch",
+            "mainClass": "LogicControl_04",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "InputTest",
+            "request": "launch",
+            "mainClass": "InputTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "FaceTest",
+            "request": "launch",
+            "mainClass": "FaceTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticOperator_03",
+            "request": "launch",
+            "mainClass": "ArithmeticOperator_03",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "CharDiffString",
+            "request": "launch",
+            "mainClass": "CharDiffString",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "StringToBasic",
+            "request": "launch",
+            "mainClass": "StringToBasic",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "char_",
+            "request": "launch",
+            "mainClass": "char_",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "datatype_02",
+            "request": "launch",
+            "mainClass": "datatype_02",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
             "name": "HelloChina_01",
             "request": "launch",
             "mainClass": "HelloChina_01",

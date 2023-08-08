@@ -40,15 +40,11 @@ System.out.println("hello" + 100 + 3)   // hello1003
 
 不要用浮点数运算后的值与浮点数进行比较，例如 ``2.7 / 3``等于近似0.9的值。
 
-
 ### API（application programming interface,应用程序 编程接口）
-
 
 ![1689858501559](image/chapter_02/1689858501559.png)
 
-
 [java8 api在线索引](https://www.matools.com/api/java8)
-
 
 ### 字符(char)
 
@@ -58,7 +54,6 @@ System.out.println("hello" + 100 + 3)   // hello1003
 * 可以直接给char赋一个整数，然后输出时，会按照对应的unicode字符输出
 * char类型是可以进行运算的，相当于一个整数，因为它都对应有Unicode码
 * ***字符常量是用单引号('')括起来的单个字符。注意与字符串的区别！***
-
 
 ### 字符类型(char)本质（ascll等）
 
@@ -70,7 +65,6 @@ System.out.println("hello" + 100 + 3)   // hello1003
 * utf-8编码表是大小可变的(1-6个字节表示一个符号))，字母使用1个字节，汉字使用3个字节。在互联网上使用最广的Unicode使用方式
 * bbk字母使用1个字节，汉字2个字节。
 
-
 ### 基本类型转换
 
 ![1689862217916](image/chapter_02/1689862217916.png)
@@ -80,7 +74,7 @@ System.out.println("hello" + 100 + 3)   // hello1003
 * byte,short,char他们三者可以计算，在计算时首先转换为int类型
 * boolean不参与转换
 
-### 强制数据类型转换
+### 强制数据类型转换(double-int;int-char)
 
 目的：将高精度转换为低精度
 
@@ -90,8 +84,11 @@ int n = (int)1.9
 
 强转符号只针对于最近的操作数有效，往往会使用小括号提升优先级
 
-char类型可以保存int的常量值，但不能保存int的变量值，需要强转 
+char类型可以保存int的常量值，但不能保存int的变量值，需要强转
 
+```java
+(char)('A' + 1)  // 'A' + 1为int需要强制转换char
+```
 
 ### 基本数据类型与String的转换
 
@@ -116,21 +113,17 @@ boolean n7 = Boolean.parseBoolean("true");
 short n8 = Short.parseShort(s2);
 ```
 
-
-
 ### 字符(char)与字符串的联系
 
 字符定义： ``char s = 'm'`` 定义单个字符
 
 字符串定义： ``String s = "ma"``
 
-
 +对两者影响不同
 
 char为单个字符，若加数字则通过unicode码值相加，得到int型。加char也是一样
 
 String加数字则将其数字转为字符串再相加，得到字符拼接结果
-
 
 转换(字符串索引)
 

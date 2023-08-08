@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayTest9",
+            "request": "launch",
+            "mainClass": "ArrayTest9",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest8",
+            "request": "launch",
+            "mainClass": "ArrayTest8",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest7",
+            "request": "launch",
+            "mainClass": "ArrayTest7",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest6",
+            "request": "launch",
+            "mainClass": "ArrayTest6",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest5",
+            "request": "launch",
+            "mainClass": "ArrayTest5",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest4",
+            "request": "launch",
+            "mainClass": "ArrayTest4",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest3",
+            "request": "launch",
+            "mainClass": "ArrayTest3",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest2",
+            "request": "launch",
+            "mainClass": "ArrayTest2",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest1",
+            "request": "launch",
+            "mainClass": "ArrayTest1",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
             "name": "ArrayTest",
             "request": "launch",
             "mainClass": "ArrayTest",

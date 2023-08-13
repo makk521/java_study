@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MoraGame",
+            "request": "launch",
+            "mainClass": "MoraGame",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Homework_06",
+            "request": "launch",
+            "mainClass": "Homework_06",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Constructoe",
+            "request": "launch",
+            "mainClass": "Constructoe",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "HanNuo",
+            "request": "launch",
+            "mainClass": "HanNuo",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "MiGong",
+            "request": "launch",
+            "mainClass": "MiGong",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "MethodExercise",
+            "request": "launch",
+            "mainClass": "MethodExercise",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ObjectTest2",
+            "request": "launch",
+            "mainClass": "ObjectTest2",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ObjectTest1",
+            "request": "launch",
+            "mainClass": "ObjectTest1",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ObjectTest",
+            "request": "launch",
+            "mainClass": "ObjectTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "ObjeceTest",
+            "request": "launch",
+            "mainClass": "ObjeceTest",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Objece01",
+            "request": "launch",
+            "mainClass": "Objece01",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
             "name": "ArrayTest9",
             "request": "launch",
             "mainClass": "ArrayTest9",

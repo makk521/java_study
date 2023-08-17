@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "smallChangeApp",
+            "request": "launch",
+            "mainClass": "code.chapter_07.amallchange.OopCode.smallChangeApp",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "SmallChangeSys",
+            "request": "launch",
+            "mainClass": "code.chapter_07.amallchange.LogicCode.SmallChangeSys",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "EqualExercise1",
+            "request": "launch",
+            "mainClass": "code.chapter_07.Equal_.EqualExercise1",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "code.chapter_07.PolyParameter_.User",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "PolyArray",
+            "request": "launch",
+            "mainClass": "code.chapter_07.PolyArray_.PolyArray",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "code.chapter_07.Poly_.User",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "code.chapter_07.Override.Main",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "code.chapter_07.extend_2.Test",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Extends",
+            "request": "launch",
+            "mainClass": "code.chapter_07.extend_.Extends",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "encapsualtion01",
+            "request": "launch",
+            "mainClass": "code.chapter_07.com.encap.encapsualtion01",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "Import_01",
+            "request": "launch",
+            "mainClass": "code.chapter_07.Import_01",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "code.chapter_07.com.use.test",
+            "projectName": "java_study_2b6c8c21"
+        },
+        {
+            "type": "java",
             "name": "MoraGame",
             "request": "launch",
             "mainClass": "MoraGame",

@@ -1,7 +1,7 @@
 package code.chapter_07.com.use;
 
 import code.chapter_07.com.tom.Dog;
-import code.chapter_07.com.jack.Dog; //必须有
+// import code.chapter_07.com.jack.Dog; //必须有
 public class test {
     public static void main(String[] args){
         Dog dog = new Dog();//默认Dog是第一个(tom)
